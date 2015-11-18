@@ -1,4 +1,9 @@
 # What's In Theaters Application Overview
+
+<a href="https://bluemix.net/deploy?repository=https://hub.jazz.net/git/idsorg/sample-java-cloudant" target="_blank"><img src="http://bluemix.net/deploy/button.png" alt="Bluemix button" /></a>
+
+<a href="https://bluemix.net/deploy?repository=https://hub.jazz.net/git/idsorg/movieapp-dialog" target="_blank"><img src="http://bluemix.net/deploy/button.png" alt="Bluemix button" /></a>
+
 The What's in Theaters application showcases the best practices to follow to build a Watson conversational solution by using the Watson Dialog service. The application allows users to converse with Watson to search for current or upcoming movies by using [themoviedb.org](https://www.themoviedb.org/) database.
 
 The application uses a conversational template that you can customize for your own application. This domain-independent template will help you to structure your dialogs according to how people naturally converse, thus helping you to bootstrap your future dialogs.
